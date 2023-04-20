@@ -1,2 +1,2 @@
 # prueba-1
-prueba de cominidad Giyhub
+prueba de cominidad Github
